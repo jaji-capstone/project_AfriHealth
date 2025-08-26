@@ -21,7 +21,7 @@ This repository documents our comprehensive analysis of healthcare financing and
 **Coverage**: 47 African countries  
 **Observations**: 1,054 country-year records
 
----
+
 
 ## 🔬 The Complete Data Pipeline
 

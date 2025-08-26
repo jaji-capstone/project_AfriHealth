@@ -195,9 +195,10 @@ This is the gold standard for regional aggregation per World Bank methodology:
 - Fondoh, Peter : 
 
 
-...
+
 ### **📁 File Structure**  
 
+```
 africa-health-spending/
 │
 ├── data/
@@ -237,4 +238,4 @@ africa-health-spending/
 ├── Video Presentation link
 ├── key-variables-explained.csv
 └── README.md
-...
+```

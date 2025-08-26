@@ -1,0 +1,5 @@
+﻿Variable,Meaning,Why It Matters
+CHE_GDP,Current Health Expenditure as % of GDP,Shows total health priority in national economy
+GGHE_pct_GDP,Government Health Expenditure as % of GDP,Measures public commitment to health
+OOP_pct_CHE,Out-of-Pocket Payments as % of total health spending,High values indicate financial risk for households
+DPT_Immunization,"Diphtheria, Pertussis, Tetanus immunization rate",Key indicator of primary care system strength

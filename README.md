@@ -61,7 +61,7 @@ The WHO uses a hierarchical coding system where ParentTitle = 'Africa' is our fi
 
 ---
 
-### 🌍 **Stage 3: World Bank Data Processin**  
+### 🌍 **Stage 3: World Bank Data Processing**  
 *(Notebook: `notebooks/wb_cleaning_transformation.ipynb`)*
 
 **What We Did**:

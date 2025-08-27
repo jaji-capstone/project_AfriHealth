@@ -1,7 +1,7 @@
 
 # Healthcare Spending Impact Analysis: Optimizing Health Investment Strategies Across Africa
 
-![Capstone Project](figures/efficiency_ranking.png)
+![Capstone Project](africa-health-spending/figures/efficiency_ranking.png)
 
 This repository documents our comprehensive analysis of healthcare financing and outcomes across African countries. We identify which spending patterns deliver the greatest health impact per dollar invested and highlight high-efficiency health systems that achieve strong outcomes despite limited resources.
 
@@ -61,7 +61,7 @@ The WHO uses a hierarchical coding system where ParentTitle = 'Africa' is our fi
 
 ---
 
-### 🌍 **Stage 3: World Bank Data Processin**  
+### 🌍 **Stage 3: World Bank Data Processing**  
 *(Notebook: `notebooks/wb_cleaning_transformation.ipynb`)*
 
 **What We Did**:
@@ -121,21 +121,7 @@ The Weighted Mean 66POP rule (no aggregate if missing data >1/3 of population) e
 
 ### **📊 Key Variables Explained**  
 
-Use MS excel to open the text file 'key-variables-explained.csv' for explanations of key variables and why each matters.  
-
-**What We Did**:
-1. Conducted Exploratory Data Analysis (EDA)
-2. Built a linear regression model to predict life expectancy
-3. Calculated efficiency scores as residuals (actual - predicted)
-4. Applied Weighted Mean 66POP for regional aggregation
-5. Generated key visualizations
-6. Saved the final unified dataset as african_health_spending_outcomes.csv
-
-**Why It Matters** 
-This stage transforms cleaned data into actionable insights using rigorous statistical methods aligned with World Bank standards.
-
-**Key Insight**: 
-The Weighted Mean 66POP rule (no aggregate if missing data >1/3 of population) ensures our regional results are robust and transparent
+Use MS excel to open the text file **_'key-variables-explained.csv'_** for explanations of key variables and why each matters.  
 
 ---
 

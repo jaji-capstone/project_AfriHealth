@@ -123,20 +123,6 @@ The Weighted Mean 66POP rule (no aggregate if missing data >1/3 of population) e
 
 Use MS excel to open the text file **_'key-variables-explained.csv'_** for explanations of key variables and why each matters.  
 
-**What We Did**:
-1. Conducted Exploratory Data Analysis (EDA)
-2. Built a linear regression model to predict life expectancy
-3. Calculated efficiency scores as residuals (actual - predicted)
-4. Applied Weighted Mean 66POP for regional aggregation
-5. Generated key visualizations
-6. Saved the final unified dataset as african_health_spending_outcomes.csv
-
-**Why It Matters** 
-This stage transforms cleaned data into actionable insights using rigorous statistical methods aligned with World Bank standards.
-
-**Key Insight**: 
-The Weighted Mean 66POP rule (no aggregate if missing data >1/3 of population) ensures our regional results are robust and transparent
-
 ---
 
 ### **📈 Methodology: Weighted Mean 66POP**  

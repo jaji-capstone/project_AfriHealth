@@ -1,7 +1,7 @@
 
 # Healthcare Spending Impact Analysis: Optimizing Health Investment Strategies Across Africa
 
-![Capstone Project](africa-health-spending/figures/efficiency_ranking.png)
+![Capstone Project](figures/efficiency_ranking.png)
 
 This repository documents our comprehensive analysis of healthcare financing and outcomes across African countries. We identify which spending patterns deliver the greatest health impact per dollar invested and highlight high-efficiency health systems that achieve strong outcomes despite limited resources.
 

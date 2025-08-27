@@ -121,7 +121,7 @@ The Weighted Mean 66POP rule (no aggregate if missing data >1/3 of population) e
 
 ### **📊 Key Variables Explained**  
 
-Use MS excel to open the text file 'key-variables-explained.csv' for explanations of key variables and why each matters.  
+Use MS excel to open the text file **_'key-variables-explained.csv'_** for explanations of key variables and why each matters.  
 
 **What We Did**:
 1. Conducted Exploratory Data Analysis (EDA)
